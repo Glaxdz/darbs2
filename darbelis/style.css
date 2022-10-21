@@ -1,0 +1,121 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+.darkwood {
+    margin-top: 80px;
+    height: 300px;
+    float: right;
+}
+header{
+    background-color: orange;
+    padding: 30px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+a {
+    text-decoration: none;
+    color: orange;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 2.5em;
+    background-color: black;
+    padding: 20px;
+    border-radius: 20px;
+    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+
+}
+.overwatch{
+    margin-left: 40px;
+    border-radius: 20px;
+    margin-top: 40px;
+    height: 500px;
+    width: 650px;
+}
+.rainbow6{
+    margin-left: 40px;
+    border-radius: 20px;
+    margin-top: 40px;
+    height: 500px;
+    width: 500px;
+}
+.apiemane{
+    color:white;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 40px;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+.andrew{
+    height:500px;
+    width:500px;
+    margin-left: 40px;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+.bughatti{
+    height:500px;
+    width: 600px;
+    margin-left: 40px;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+.rust{
+    height:500px;
+    width: 600px;
+    margin-left: 40px;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+a:hover {
+    box-shadow: inset 100px 0 0 0 orange;
+    color: white;
+}
+.arklys {
+    height:720px;
+    width: 1280px;
+    margin-left: 40px;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+.arklys2 {
+    height:720px;
+    width: 1280px;
+    margin-left: 40px;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+.zmogus {
+    height:720px;
+    width: 1280px;
+    margin-left: 40px;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+.xqc {
+    height:720px;
+    width: 1280px;
+    margin-left: 40px;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+.roadhog {
+    height:720px;
+    width: 1280px;
+    margin-left: 40px;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+.overwatch22 {
+    height:720px;
+    width: 1280px;
+    margin-left: 40px;
+    border-radius: 20px;
+    margin-top: 40px;
+}
